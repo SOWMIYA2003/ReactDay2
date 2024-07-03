@@ -49,6 +49,7 @@ Error generating stack: `+o.message+`
   width: 100%;
   max-width: 500px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  color: #007bff;
 `,$m=at.div`
   display: flex;
   align-items: center;
